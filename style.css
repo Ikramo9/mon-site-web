@@ -4,19 +4,15 @@
     <meta charset="UTF-8">
     <title>Profil Étudiante</title>
     <link rel="stylesheet" href="style.css">
-</<head>
-    <meta charset="UTF-8">
-    <title>Mon site</title>
-    <link rel="stylesheet" href="style.css">
-</head>>
-<body style="background-color:#54749a;">
+</head>
+<body { background-color: #4f6f95; }>
 
     <!-- SECTION HERO -->
     <section class="hero">
         <div class="overlay">
             <h1>PROFIL ACADÉMIQUE</h1>
             <p>
-                Étudiante en première année à l’ENCG SETTAT,  
+                Étudiante en première année à l’ESG,  
                 passionnée par la gestion, l’économie et le digital.
             </p>
         </div>
@@ -28,7 +24,7 @@
 
         <p><strong>Statut :</strong> Étudiante</p>
         <p><strong>Niveau :</strong> Première année</p>
-        <p><strong>Établissement :</strong> ENCG</p>
+        <p><strong>Établissement :</strong> ESG</p>
         <p><strong>Spécialité :</strong> Sciences économiques et gestion</p>
 
         <h2>Modules étudiés</h2>
@@ -69,38 +65,28 @@
         </table>
     </section>
 
-
-
-</body>
-</html><!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <title>Mon site</title>
-</head>
-<body>
-    <h1>Bienvenue sur mon site</h1>
-    <p>Site créé avec CMD et Notepad par ikram et manal</p>
 </body>
 </html> 
+.content {
+    background-color: #87CEEB; /* sky blue */
+}
+<body>
 
-<img src="photo.jpg" width="170" style="position: absolute; top: 0; right: 0;">
+<img src="photo.jpg" width="200" style="position: absolute; top: 0; right: 0;">
 
 <h1>Bienvenue sur mon site</h1>
 
 </<div class="hero">
   <div class="hero-content">
-    <h1>Encadrée par Mme HIBAT ALLAH MOHTADI</h1>
+    <h1>CREATIVE DESIGN</h1>
     <p>
       Un site web simple, chic et professionnel créé avec HTML et CSS.
     </p>
 
     <div class="buttons">
       <a href="#" class="btn">LEARN MORE</a>
-      <a href="#" class="btn btn-outline">CONTACT
-ikrammachkour@gmail.com
-NUM 0644002522</a>
+      <a href="#" class="btn btn-outline">CONTACT</a>
     </div>
   </div>
 </div>>
- <link rel="stylesheet" href="style.css">
+
